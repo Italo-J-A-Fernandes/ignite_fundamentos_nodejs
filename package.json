@@ -1,0 +1,7 @@
+{
+  "name": "fundamentos_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Italo Fernandes <italojafernandes@hotmail.com>",
+  "license": "MIT"
+}
